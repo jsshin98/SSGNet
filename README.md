@@ -1,6 +1,7 @@
-# SSGNET
+# [AAAI 2023] Task-specific Scene Structure Representations
 
-**Task-specific Scene Structure Representations**<br>
+**Task-specific Scene Structure Representations(AAAI 2023 ACCEPTED!)
+Jisu Shin, Seunghyun Shin and Hae-Gon Jeon**<br>
 
 
 ## Introduction
