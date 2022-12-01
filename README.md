@@ -106,11 +106,9 @@ You can download dataset that we used for training and test from below links
 - BSDS : https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/
 
 ## Reference
-
-Our results of denoising and depth upsampling are together in files. \
-Since Supplementary file is up to 100MB, we randomly select about 10% from each dataset from top3 methods. \
-Note that the unit of RMSE and MAE is mm in those files.
-
-
 Baseline network codes of Denoising and Depth Upsampling are from https://github.com/zhangyi-3/IDR and https://github.com/palmdong/MMSR, respectively.
 ```
+##Citation
+
+## Contact
+If you have any question, please feel free to contact us via jsshin98@gm.gist.ac.kr or seunghyuns98@gm.gist.ac.kr.
