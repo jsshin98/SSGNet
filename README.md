@@ -1,8 +1,8 @@
 # [AAAI 2023] Task-specific Scene Structure Representations
 
-**Task-specific Scene Structure Representations(AAAI 2023 ACCEPTED!)
+**Task-specific Scene Structure Representations(AAAI 2023 ACCEPTED!) \\
 Jisu Shin, Seunghyun Shin and Hae-Gon Jeon**<br>
-
+Our paper is not published yet
 
 ## Introduction
 
@@ -109,6 +109,6 @@ You can download dataset that we used for training and test from below links
 Baseline network codes of Denoising and Depth Upsampling are from https://github.com/zhangyi-3/IDR and https://github.com/palmdong/MMSR, respectively.
 
 ### Citation
-
+Will be updated soon
 ### Contact
 If you have any question, please feel free to contact us via jsshin98@gm.gist.ac.kr or seunghyuns98@gm.gist.ac.kr.
