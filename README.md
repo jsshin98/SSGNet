@@ -97,7 +97,7 @@ You should change scale parameter in main_GR & pretrained SSGNet parameter's pat
 python main_GR.py
 ```
 
-##Dataset
+### Dataset
 You can download dataset that we used for training and test from below links
 
 - NyuV2 : http://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat
@@ -105,10 +105,10 @@ You can download dataset that we used for training and test from below links
 - Kodak : http://www.cs.albany.edu/~xypan/research/snr/Kodak.html
 - BSDS : https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/
 
-## Reference
+### Reference
 Baseline network codes of Denoising and Depth Upsampling are from https://github.com/zhangyi-3/IDR and https://github.com/palmdong/MMSR, respectively.
 ```
-##Citation
+### Citation
 
-## Contact
+### Contact
 If you have any question, please feel free to contact us via jsshin98@gm.gist.ac.kr or seunghyuns98@gm.gist.ac.kr.
