@@ -1,4 +1,4 @@
-# [AAAI 2023] Task-specific Scene Structure Representations
+# [AAAI 2023 ORAL] Task-specific Scene Structure Representations
 
 **Task-specific Scene Structure Representations(AAAI 2023 ORAL Presentation ACCEPTED!) \
 Jisu Shin, Seunghyun Shin and Hae-Gon Jeon**<br>
