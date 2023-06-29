@@ -3,7 +3,8 @@
 **Task-specific Scene Structure Representations(AAAI 2023 ORAL Presentation ACCEPTED!) \
 Jisu Shin, Seunghyun Shin and Hae-Gon Jeon**<br>
 
-[PAPER](https://doi.org/10.1609/aaai.v37i2.25322)
+[[PAPER]](https://doi.org/10.1609/aaai.v37i2.25322)
+
 ## Introduction
 
 __SSGNet.__ We propose a Scene Structure Guidance Network, SSGNet, a single general neural network architecture for extracting task-specific structural features of scenes.. 
