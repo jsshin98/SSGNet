@@ -134,11 +134,11 @@ def Pooling(stride):
 class SSGNet(nn.Module):
     def __init__(self):
         super(SSGNet, self).__init__()
-        self.conv1 = Conv2dBlock(3, 32, 3, padding=1, norm='LN', activation='gelu')
-        self.conv2 = Conv2dBlock(32, 64, 3, padding=1, stride=1, norm='LN', activation='gelu')
-        self.deconv2_1 = Conv2dBlock(64, 32, 3, padding=1, norm='LN', activation='gelu')
-        self.deconv2_2 = Conv2dBlock(64, 32, 3, padding=1, norm='LN', activation='gelu')
-        self.deconv1 = Conv2dBlock(32, 3, 1, padding=0, norm='LN', activation='softmax')
+        self.conv1 = Conv2dBlock(3, 32, 3, padding=1, norm='none', activation='gelu')
+        self.conv2 = Conv2dBlock(32, 64, 3, padding=1, stride=1, norm='none', activation='gelu')
+        self.deconv2_1 = Conv2dBlock(64, 32, 3, padding=1, norm='none', activation='gelu')
+        self.deconv2_2 = Conv2dBlock(64, 32, 3, padding=1, norm='none', activation='gelu')
+        self.deconv1 = Conv2dBlock(32, 3, 1, padding=0, norm='none', activation='softmax')
 
 
     def forward(self, x):
