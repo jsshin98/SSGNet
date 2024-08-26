@@ -72,5 +72,5 @@ if __name__ == '__main__':
             for m in range(len(eigen_vs[0])):
                 normalize_e[0][m] = (eigen_vs[0][m] - torch.min(eigen_vs[0][m])) / (
                     torch.max(eigen_vs[0][m] - torch.min(eigen_vs[0][m])))
-                torchvision.utils.save_image(normalize_e, os.path.join(opt.save_result, str(i)+'_eigen'+str(m)+'.png' ))
+                torchvision.utils.save_image(normalize_e[:, m], os.path.join(opt.save_result, str(i)+'_eigen'+str(m)+'.png' ))
 
