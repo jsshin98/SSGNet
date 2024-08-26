@@ -44,6 +44,9 @@ You should change SSGNET/options/test_options \
 ```commandline
 python test.py
 ```
+### Initial pretrained weight for SSGNet
+Download https://drive.google.com/file/d/1nimXk_7VV3TaiP3W3E49XgEc8nQftyRA/view?usp=drive_link
+and modify --ssgnet-pretrained path to test SSGNet
 
 ### Train Denoising
 
